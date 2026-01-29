@@ -1,7 +1,7 @@
-# ⚡ JeshuaJC-dev | Junior Full Stack Developer ⚡
+#  JeshuaJC-dev | Junior Full Stack Developer 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=JeshuaJC&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:313244&height=200&section=header&text=JeshuaJC-dev&fontSize=65&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -15,24 +15,33 @@
 
 ---
 
-### 👨‍💻 Sobre mí
-- 🎓 **Junior Developer** formándose en Desarrollo de Aplicaciones Web (DAW).
-- 🐍 Apasionado por la **automatización de procesos** y la **Inteligencia Artificial Generativa** aplicada.
-- 🚀 Construyendo soluciones escalables con **Java** (Backend) y **JavaScript** (Frontend).
-- 🔭 **Objetivo:** Dominar la arquitectura Full Stack y los flujos de trabajo DevOps.
+## 👨‍💻 Sobre mí
+
+Soy un **Junior Full Stack Developer** en formación (DAW) con un enfoque claro:  
+**automatizar procesos, construir herramientas útiles y dominar la arquitectura moderna del software**.
+
+- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+- 🧠 Interesado en **IA Generativa**, automatización y optimización de flujos  
+- 🚀 Backend con **Java**, Frontend con **JavaScript**  
+- 🐍 Desarrollo de herramientas internas con **Python**  
+- 🔭 Objetivo: Convertirme en un desarrollador capaz de construir sistemas completos, escalables y mantenibles
 
 ---
 
-### 🔬 Enfoque Actual / I+D
+## 🔬 Enfoque Actual / I+D
+
 > *Aplicando conocimientos de programación para optimizar flujos de trabajo en IA local.*
 
-- **Automated Generative Media Pipeline**: Desarrollo de un entorno local en **Python** para la automatización de generación de activos sintéticos.
-  - *Stack:* Python, PyTorch, Bash Scripting.
-  - *Foco:* Optimización de VRAM (RTX 3060), integración de APIs de visión por computador (OpenPose) y procesamiento por lotes (Batch Processing).
+### **Automated Generative Media Pipeline**
+Entorno local en **Python** para automatizar la generación de activos sintéticos.
+
+- **Stack:** Python, PyTorch, Bash  
+- **Foco:** Optimización de VRAM (RTX 3060), OpenPose, batch processing  
+- **Meta:** Crear un pipeline modular y escalable para producción de datasets
 
 ---
 
-### 🛠️ Toolbox (Tecnologías)
+## 🛠️ Toolbox (Tecnologías)
 
 | Categoría | Herramientas |
 | :--- | :--- |
@@ -42,10 +51,28 @@
 
 ---
 
-### 📈 Actividad en GitHub
+## 📈 Actividad en GitHub
+
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeshuaJC-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeshuaJC-dev&layout=compact&theme=tokyonight&hide_langs_below=1"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=JeshuaJC-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=JeshuaJC-dev&layout=compact&theme=tokyonight&hide_langs_below=1"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeshuaJC-dev&theme=tokyo-night" />
 </p>
 
 ---
+
+## 📬 Contacto
+
+<p align="center">
+  <a href="mailto:mpvincit@gmail.com"><img src="https://img.shields.io/badge/Email-Contactar-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jeshua-jamanca/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JeshuaJC-dev&color=blue&style=flat-square" />
+</p>
