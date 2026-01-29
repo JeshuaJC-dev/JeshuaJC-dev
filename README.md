@@ -1,4 +1,4 @@
-#  JeshuaJC-dev | Junior Full Stack Developer 
+# JeshuaJC-dev | Junior Full Stack Developer 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:313244&height=200&section=header&text=JeshuaJC-dev&fontSize=65&animation=fadeIn" />
