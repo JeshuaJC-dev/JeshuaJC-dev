@@ -1,4 +1,4 @@
-# JeshuaJC-dev | Junior Full Stack Developer 
+# JeshuaJC-dev | Junior Full Stack Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:313244&height=200&section=header&text=JeshuaJC-dev&fontSize=65&animation=fadeIn" />
@@ -20,10 +20,10 @@
 Soy un **Junior Full Stack Developer** en formación (DAW) con un enfoque claro:  
 **automatizar procesos, construir herramientas útiles y dominar la arquitectura moderna del software**.
 
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
 - 🧠 Interesado en **IA Generativa**, automatización y optimización de flujos  
-- 🚀 Backend con **Java**, Frontend con **JavaScript**  
-- 🐍 Desarrollo de herramientas internas con **Python**  
+- 🚀 Backend con **Java**, Frontend con **JavaScript**
+- 🐍 Desarrollo de herramientas internas con **Python**
 - 🔭 Objetivo: Convertirme en un desarrollador capaz de construir sistemas completos, escalables y mantenibles
 
 ---
@@ -67,11 +67,11 @@ Entorno local en **Python** para automatizar la generación de activos sintétic
 ## 📬 Contacto
 
 <p align="center">
-  <a href="mailto:mpvincit@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mpvincit@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-mpvincit@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/jeshua-jamanca/">
+  <a href="https://www.linkedin.com/in/jeshua-jamanca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
