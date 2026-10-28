@@ -1,8 +1,8 @@
-# JeshuaJC-dev | Junior Full Stack Developer
+# JeshuaJC-dev | Full Stack & AI Solutions
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=JeshuaJC-dev;Junior+Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Automating+The+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=JeshuaJC-dev;Full+Stack+%26+AI+Solutions;Java+%7C+Python+%7C+JavaScript;Automating+The+Future" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,22 +19,25 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Junior Full Stack Developer** en formación (DAW) con un enfoque claro:  
-**automatizar procesos, construir herramientas útiles y dominar la arquitectura moderna del software**.
+Desarrollador **Full Stack** y especialista en **Soluciones Tecnológicas** con un enfoque claro:  
+**automatizar procesos, integrar IA en entornos reales y construir herramientas de alto impacto**.
 
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
-- 🧠 Interesado en **IA Generativa**, automatización y optimización de flujos  
-- 🚀 Backend con **Java**, Frontend con **JavaScript**
-- 🐍 Desarrollo de herramientas internas con **Python**
-- 🔭 Objetivo: Convertirme en un desarrollador capaz de construir sistemas completos, escalables y mantenibles
+- 💼 **Business Development & Tech Solutions** en **BronixIA**
+- 🧠 Enfocado en **IA Generativa, Agentes Local-First** y optimización de flujos de trabajo
+- 🚀 Desarrollo Backend con **Java & Python** | Frontend con **JavaScript**
+- 📊 Perfil híbrido (**Software + Administración y Finanzas**): conectando necesidades de negocio con arquitectura técnica
+- 🔭 Misión: Construir sistemas completos, escalables, privados y mantenibles
 
 ---
 
 ## 🔬 Enfoque Actual / I+D
 
-> *Aplicando conocimientos de programación para optimizar flujos de trabajo en IA local.*
+> *Optimizando flujos de trabajo e inferencia de IA en entornos locales y privados.*
 
-### **Automated Generative Media Pipeline**
+### **1. Ecosistema de Agentes & Productividad ([NOTVM](https://notvm.es))**
+Impulsando desde **BronixIA** soluciones de asistencia en tiempo real para reuniones, voz y conexión de sistemas bajo arquitectura *Local-First*.
+
+### **2. Automated Generative Media Pipeline**
 Entorno local en **Python** para automatizar la generación de activos sintéticos.
 
 - **Stack:** Python, PyTorch, Bash  
@@ -48,9 +51,9 @@ Entorno local en **Python** para automatizar la generación de activos sintétic
 | Categoría | Herramientas |
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Backend & AI** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white) |
+| **Backend & AI** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white) |
 | **Datos / Control** | ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JSON](https://img.shields.io/badge/json-5e5e5e?style=for-the-badge&logo=json&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| **IDEs** | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) |
+| **IDEs** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache&logoColor=white) |
 
 ---
 
